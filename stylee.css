@@ -141,9 +141,9 @@ span {
   /* flex-wrap: wrap; */
 }
 
-.section-three-heading {
-  /* width: 50%; */
-}
+/* .section-three-heading {
+  width: 50%;
+} */
 
 .section-three-para {
   padding-left: 15rem;
@@ -580,9 +580,9 @@ span {
   background: rgba(255, 255, 255, 1);
 }
 
-footer {
-  /* border-bottom: .1rem solid grey; */
-}
+/* footer {
+  border-bottom: .1rem solid grey;
+} */
 
 .footer-row {
   display: flex;
