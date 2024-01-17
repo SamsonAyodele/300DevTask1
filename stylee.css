@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Work Sans', Inter;
 }
 
 html {
@@ -44,6 +45,7 @@ li {
   text-align: center;
   color: #4a4d50;
   list-style-type: none;
+  cursor: pointer;
 }
 
 .btn-one {
@@ -206,7 +208,7 @@ span {
   font-size: 64px;
   font-weight: 700;
   line-height: 69px;
-  letter-spacing: -1.199690341949463px;
+  /* letter-spacing: -1.199690341949463px; */
   text-align: center;
   margin-bottom: 1.7rem;
   padding: 0 20rem;
@@ -362,7 +364,7 @@ span {
   font-size: 32px;
   font-weight: 700;
   line-height: 39px;
-  letter-spacing: -0.7203947305679321px;
+  /* letter-spacing: -0.7203947305679321px; */
   text-align: left;
   width: 381px;
   height: 78px;
@@ -508,7 +510,7 @@ span {
   font-size: 16px;
   font-weight: 400;
   line-height: 23px;
-  letter-spacing: 0.47910216450691223px;
+  /* letter-spacing: 0.47910216450691223px; */
   text-align: left;
 }
 
@@ -517,7 +519,7 @@ span {
   font-size: 28px;
   font-weight: 600;
   line-height: 42px;
-  letter-spacing: -0.7186532616615295px;
+  /* letter-spacing: -0.7186532616615295px; */
   /* text-align: left; */
   padding-right: 2rem;
 }
@@ -548,13 +550,14 @@ span {
   font-size: 57px;
   font-weight: 700;
   line-height: 69px;
-  letter-spacing: -1.1958203315734863px;
+  /* letter-spacing: -1.1958203315734863px; */
   height: 140.63px;
   padding: 0 20rem;
 }
 
 .grid-ten {
   display: flex;
+  /* flex-direction: column; */
   justify-content: space-between;
   align-items: center;
   margin-bottom: 2rem;
@@ -569,7 +572,6 @@ span {
   font-weight: 400;
   line-height: 25px;
   letter-spacing: 0em;
-  text-align: left;
   width: 509.3px;
   height: 222px;
 }
@@ -686,3 +688,7 @@ input[placeholder] {
   text-align: left;
   color: rgba(30, 30, 30, 1);
 }
+
+
+
+
